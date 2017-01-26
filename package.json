@@ -1,0 +1,19 @@
+{
+  "name": "node-mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server-1.js",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongoose": "^4.7.8",
+    "mongoose-currency": "^0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
